@@ -3,4 +3,4 @@ This is for remote repo test demo for the demo repo
 
 and this is the text I am typing after first push succesfull
 
-This is the text which I am typing from the web browser
+
